@@ -1,0 +1,22 @@
+{
+  "name": "express-basic",
+  "version": "1.0.0",
+  "description": "Basic express app for learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/collodrollo/express-basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/collodrollo/express-basic/issues"
+  },
+  "homepage": "https://github.com/collodrollo/express-basic#readme",
+  "devDependencies": {
+    "express": "^4.19.2"
+  }
+}
