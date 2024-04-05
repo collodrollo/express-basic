@@ -4,7 +4,8 @@
   "description": "Basic express app for learning purposes",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,9 @@
   "homepage": "https://github.com/collodrollo/express-basic#readme",
   "devDependencies": {
     "express": "^4.19.2"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "g": "^2.0.1"
   }
 }
